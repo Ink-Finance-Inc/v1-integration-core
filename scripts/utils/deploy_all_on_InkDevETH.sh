@@ -1,1 +1,0 @@
-npx hardhat run --network dev_eth ./scripts/deploy/ink_initial_deploy.ts

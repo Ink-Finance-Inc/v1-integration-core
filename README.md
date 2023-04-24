@@ -1,1 +1,1 @@
-# v1-product-core
+# v1-integration-core
